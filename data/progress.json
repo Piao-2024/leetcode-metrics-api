@@ -1,0 +1,590 @@
+{
+  "schema_version": 1,
+  "site": "cn",
+  "username": "piao-16m",
+  "updated_at": "2026-09-17T05:18:49Z",
+  "hot100": {
+    "total": 100,
+    "solved": 31,
+    "percentage": 31.0
+  },
+  "categories": {
+    "Backtracking": {
+      "total": 8,
+      "solved": 0
+    },
+    "Binary Search": {
+      "total": 7,
+      "solved": 5
+    },
+    "Binary Tree": {
+      "total": 14,
+      "solved": 1
+    },
+    "Dynamic Programming": {
+      "total": 15,
+      "solved": 4
+    },
+    "Graph": {
+      "total": 3,
+      "solved": 0
+    },
+    "Greedy": {
+      "total": 4,
+      "solved": 1
+    },
+    "Hashing": {
+      "total": 4,
+      "solved": 4
+    },
+    "Heap": {
+      "total": 3,
+      "solved": 0
+    },
+    "Linked Lists": {
+      "total": 14,
+      "solved": 4
+    },
+    "Matrix": {
+      "total": 4,
+      "solved": 0
+    },
+    "Sliding Window": {
+      "total": 4,
+      "solved": 4
+    },
+    "Stack": {
+      "total": 5,
+      "solved": 0
+    },
+    "Two Pointers": {
+      "total": 4,
+      "solved": 4
+    },
+    "Trie": {
+      "total": 1,
+      "solved": 0
+    },
+    "Misc": {
+      "total": 10,
+      "solved": 4
+    }
+  },
+  "remaining": [
+    {
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "difficulty": "Hard",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "Medium",
+      "category": "Backtracking"
+    },
+    {
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "category": "Binary Search"
+    },
+    {
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "Hard",
+      "category": "Binary Search"
+    },
+    {
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "difficulty": "Easy",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "difficulty": "Medium",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "category": "Binary Tree"
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "difficulty": "Hard",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Word Break",
+      "slug": "word-break",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "Medium",
+      "category": "Dynamic Programming"
+    },
+    {
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "Medium",
+      "category": "Graph"
+    },
+    {
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "Medium",
+      "category": "Graph"
+    },
+    {
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "Medium",
+      "category": "Graph"
+    },
+    {
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "difficulty": "Medium",
+      "category": "Greedy"
+    },
+    {
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "category": "Greedy"
+    },
+    {
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "difficulty": "Medium",
+      "category": "Greedy"
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "category": "Heap"
+    },
+    {
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "Hard",
+      "category": "Heap"
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "category": "Heap"
+    },
+    {
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Sort List",
+      "slug": "sort-list",
+      "difficulty": "Medium",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "difficulty": "Easy",
+      "category": "Linked Lists"
+    },
+    {
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "Medium",
+      "category": "Matrix"
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "category": "Matrix"
+    },
+    {
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "category": "Matrix"
+    },
+    {
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "category": "Matrix"
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "category": "Stack"
+    },
+    {
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "category": "Stack"
+    },
+    {
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "Medium",
+      "category": "Stack"
+    },
+    {
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "Medium",
+      "category": "Stack"
+    },
+    {
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "category": "Stack"
+    },
+    {
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "difficulty": "Medium",
+      "category": "Trie"
+    },
+    {
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "category": "Misc"
+    },
+    {
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "difficulty": "Hard",
+      "category": "Misc"
+    },
+    {
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "category": "Misc"
+    },
+    {
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "category": "Misc"
+    },
+    {
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "category": "Misc"
+    },
+    {
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "category": "Misc"
+    }
+  ],
+  "recent": {
+    "submissions": [
+      {
+        "id": "749714664",
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self",
+        "submitted_at": "2026-09-17T03:05:59Z"
+      },
+      {
+        "id": "749584842",
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers",
+        "submitted_at": "2026-09-16T10:00:06Z"
+      },
+      {
+        "id": "749582086",
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring",
+        "submitted_at": "2026-09-16T09:48:35Z"
+      },
+      {
+        "id": "749284300",
+        "title": "Binary Tree Inorder Traversal",
+        "slug": "binary-tree-inorder-traversal",
+        "submitted_at": "2026-09-15T07:21:14Z"
+      },
+      {
+        "id": "749158379",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "submitted_at": "2026-09-14T14:43:53Z"
+      },
+      {
+        "id": "748852030",
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "submitted_at": "2026-09-13T10:26:07Z"
+      },
+      {
+        "id": "748848885",
+        "title": "Rotate Array",
+        "slug": "rotate-array",
+        "submitted_at": "2026-09-13T10:08:17Z"
+      },
+      {
+        "id": "748834275",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "submitted_at": "2026-09-13T09:20:45Z"
+      },
+      {
+        "id": "748831723",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "submitted_at": "2026-09-13T09:11:55Z"
+      },
+      {
+        "id": "748285812",
+        "title": "Merge Intervals",
+        "slug": "merge-intervals",
+        "submitted_at": "2026-09-10T13:13:15Z"
+      },
+      {
+        "id": "744545589",
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix",
+        "submitted_at": "2026-08-25T08:33:59Z"
+      },
+      {
+        "id": "744537219",
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix",
+        "submitted_at": "2026-08-25T08:12:18Z"
+      },
+      {
+        "id": "744521739",
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "submitted_at": "2026-08-25T07:31:57Z"
+      },
+      {
+        "id": "744518795",
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock",
+        "submitted_at": "2026-08-25T07:24:14Z"
+      },
+      {
+        "id": "744516074",
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray",
+        "submitted_at": "2026-08-25T07:16:50Z"
+      }
+    ],
+    "newly_observed_slugs": []
+  },
+  "coverage": {
+    "source": "public_recent_ac_with_local_history",
+    "is_complete": true,
+    "known_solved": 50,
+    "reported_solved": 50
+  }
+}
