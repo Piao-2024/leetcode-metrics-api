@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-17T06:55:55Z",
+  "updated_at": "2026-10-18T07:13:00Z",
   "hot100": {
     "total": 100,
-    "solved": 35,
-    "percentage": 35.0
+    "solved": 36,
+    "percentage": 36.0
   },
   "categories": {
     "Backtracking": {
@@ -67,7 +67,7 @@
     },
     "Misc": {
       "total": 10,
-      "solved": 4
+      "solved": 5
     }
   },
   "remaining": [
@@ -432,12 +432,6 @@
       "category": "Misc"
     },
     {
-      "title": "First Missing Positive",
-      "slug": "first-missing-positive",
-      "difficulty": "Hard",
-      "category": "Misc"
-    },
-    {
       "title": "Sort Colors",
       "slug": "sort-colors",
       "difficulty": "Medium",
@@ -464,6 +458,12 @@
   ],
   "recent": {
     "submissions": [
+      {
+        "id": "755490283",
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive",
+        "submitted_at": "2026-10-18T05:09:22Z"
+      },
       {
         "id": "750316250",
         "title": "Spiral Matrix",
@@ -547,20 +547,16 @@
         "title": "Rotate Array",
         "slug": "rotate-array",
         "submitted_at": "2026-09-13T10:08:17Z"
-      },
-      {
-        "id": "748834275",
-        "title": "Two Sum",
-        "slug": "two-sum",
-        "submitted_at": "2026-09-13T09:20:45Z"
       }
     ],
-    "newly_observed_slugs": []
+    "newly_observed_slugs": [
+      "first-missing-positive"
+    ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 55,
-    "reported_solved": 55
+    "known_solved": 56,
+    "reported_solved": 56
   }
 }
