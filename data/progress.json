@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-19T07:45:17Z",
+  "updated_at": "2026-10-20T07:31:36Z",
   "hot100": {
     "total": 100,
-    "solved": 36,
-    "percentage": 36.0
+    "solved": 38,
+    "percentage": 38.0
   },
   "categories": {
     "Backtracking": {
@@ -43,11 +43,11 @@
     },
     "Linked Lists": {
       "total": 14,
-      "solved": 4
+      "solved": 5
     },
     "Matrix": {
       "total": 4,
-      "solved": 3
+      "solved": 4
     },
     "Sliding Window": {
       "total": 4,
@@ -378,18 +378,6 @@
       "category": "Linked Lists"
     },
     {
-      "title": "Palindrome Linked List",
-      "slug": "palindrome-linked-list",
-      "difficulty": "Easy",
-      "category": "Linked Lists"
-    },
-    {
-      "title": "Search a 2D Matrix II",
-      "slug": "search-a-2d-matrix-ii",
-      "difficulty": "Medium",
-      "category": "Matrix"
-    },
-    {
       "title": "Valid Parentheses",
       "slug": "valid-parentheses",
       "difficulty": "Easy",
@@ -458,6 +446,18 @@
   ],
   "recent": {
     "submissions": [
+      {
+        "id": "755881619",
+        "title": "Palindrome Linked List",
+        "slug": "palindrome-linked-list",
+        "submitted_at": "2026-10-20T03:32:23Z"
+      },
+      {
+        "id": "755873570",
+        "title": "Search a 2D Matrix II",
+        "slug": "search-a-2d-matrix-ii",
+        "submitted_at": "2026-10-20T03:02:58Z"
+      },
       {
         "id": "755490283",
         "title": "First Missing Positive",
@@ -535,26 +535,17 @@
         "title": "Two Sum",
         "slug": "two-sum",
         "submitted_at": "2026-09-14T14:43:53Z"
-      },
-      {
-        "id": "748852030",
-        "title": "Rotate Array",
-        "slug": "rotate-array",
-        "submitted_at": "2026-09-13T10:26:07Z"
-      },
-      {
-        "id": "748848885",
-        "title": "Rotate Array",
-        "slug": "rotate-array",
-        "submitted_at": "2026-09-13T10:08:17Z"
       }
     ],
-    "newly_observed_slugs": []
+    "newly_observed_slugs": [
+      "palindrome-linked-list",
+      "search-a-2d-matrix-ii"
+    ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 56,
-    "reported_solved": 56
+    "known_solved": 58,
+    "reported_solved": 58
   }
 }
