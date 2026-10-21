@@ -2,7 +2,7 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-20T07:31:36Z",
+  "updated_at": "2026-10-21T07:37:34Z",
   "hot100": {
     "total": 100,
     "solved": 38,
@@ -537,10 +537,7 @@
         "submitted_at": "2026-09-14T14:43:53Z"
       }
     ],
-    "newly_observed_slugs": [
-      "palindrome-linked-list",
-      "search-a-2d-matrix-ii"
-    ]
+    "newly_observed_slugs": []
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
