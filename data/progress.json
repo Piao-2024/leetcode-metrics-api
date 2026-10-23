@@ -2,16 +2,16 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-22T07:33:18Z",
+  "updated_at": "2026-10-23T07:30:28Z",
   "hot100": {
     "total": 100,
-    "solved": 38,
-    "percentage": 38.0
+    "solved": 40,
+    "percentage": 40.0
   },
   "categories": {
     "Backtracking": {
       "total": 8,
-      "solved": 0
+      "solved": 1
     },
     "Binary Search": {
       "total": 7,
@@ -43,7 +43,7 @@
     },
     "Linked Lists": {
       "total": 14,
-      "solved": 5
+      "solved": 6
     },
     "Matrix": {
       "total": 4,
@@ -104,12 +104,6 @@
     {
       "title": "Subsets",
       "slug": "subsets",
-      "difficulty": "Medium",
-      "category": "Backtracking"
-    },
-    {
-      "title": "Word Search",
-      "slug": "word-search",
       "difficulty": "Medium",
       "category": "Backtracking"
     },
@@ -354,12 +348,6 @@
       "category": "Linked Lists"
     },
     {
-      "title": "Linked List Cycle",
-      "slug": "linked-list-cycle",
-      "difficulty": "Easy",
-      "category": "Linked Lists"
-    },
-    {
       "title": "Linked List Cycle II",
       "slug": "linked-list-cycle-ii",
       "difficulty": "Medium",
@@ -447,6 +435,18 @@
   "recent": {
     "submissions": [
       {
+        "id": "756402765",
+        "title": "Word Search",
+        "slug": "word-search",
+        "submitted_at": "2026-10-22T11:53:21Z"
+      },
+      {
+        "id": "756391944",
+        "title": "Linked List Cycle",
+        "slug": "linked-list-cycle",
+        "submitted_at": "2026-10-22T10:52:41Z"
+      },
+      {
         "id": "755881619",
         "title": "Palindrome Linked List",
         "slug": "palindrome-linked-list",
@@ -523,26 +523,17 @@
         "title": "Minimum Window Substring",
         "slug": "minimum-window-substring",
         "submitted_at": "2026-09-16T09:48:35Z"
-      },
-      {
-        "id": "749284300",
-        "title": "Binary Tree Inorder Traversal",
-        "slug": "binary-tree-inorder-traversal",
-        "submitted_at": "2026-09-15T07:21:14Z"
-      },
-      {
-        "id": "749158379",
-        "title": "Two Sum",
-        "slug": "two-sum",
-        "submitted_at": "2026-09-14T14:43:53Z"
       }
     ],
-    "newly_observed_slugs": []
+    "newly_observed_slugs": [
+      "linked-list-cycle",
+      "word-search"
+    ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 58,
-    "reported_solved": 58
+    "known_solved": 60,
+    "reported_solved": 60
   }
 }

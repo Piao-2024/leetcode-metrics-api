@@ -26,6 +26,7 @@
     "house-robber",
     "intersection-of-two-linked-lists",
     "jump-game",
+    "linked-list-cycle",
     "longest-consecutive-sequence",
     "longest-substring-without-repeating-characters",
     "maximize-happiness-of-selected-children",
@@ -59,6 +60,7 @@
     "transformed-array",
     "trapping-rain-water",
     "two-sum",
-    "two-sum-ii-input-array-is-sorted"
+    "two-sum-ii-input-array-is-sorted",
+    "word-search"
   ]
 }
