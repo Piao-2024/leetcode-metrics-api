@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-25T07:34:24Z",
+  "updated_at": "2026-10-26T07:46:41Z",
   "hot100": {
     "total": 100,
-    "solved": 40,
-    "percentage": 40.0
+    "solved": 42,
+    "percentage": 42.0
   },
   "categories": {
     "Backtracking": {
@@ -19,7 +19,7 @@
     },
     "Binary Tree": {
       "total": 14,
-      "solved": 1
+      "solved": 2
     },
     "Dynamic Programming": {
       "total": 15,
@@ -43,7 +43,7 @@
     },
     "Linked Lists": {
       "total": 14,
-      "solved": 6
+      "solved": 7
     },
     "Matrix": {
       "total": 4,
@@ -141,12 +141,6 @@
       "title": "Binary Tree Level Order Traversal",
       "slug": "binary-tree-level-order-traversal",
       "difficulty": "Medium",
-      "category": "Binary Tree"
-    },
-    {
-      "title": "Maximum Depth of Binary Tree",
-      "slug": "maximum-depth-of-binary-tree",
-      "difficulty": "Easy",
       "category": "Binary Tree"
     },
     {
@@ -348,12 +342,6 @@
       "category": "Linked Lists"
     },
     {
-      "title": "Linked List Cycle II",
-      "slug": "linked-list-cycle-ii",
-      "difficulty": "Medium",
-      "category": "Linked Lists"
-    },
-    {
       "title": "LRU Cache",
       "slug": "lru-cache",
       "difficulty": "Medium",
@@ -435,6 +423,18 @@
   "recent": {
     "submissions": [
       {
+        "id": "757016177",
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "submitted_at": "2026-10-26T07:42:29Z"
+      },
+      {
+        "id": "756997571",
+        "title": "Linked List Cycle II",
+        "slug": "linked-list-cycle-ii",
+        "submitted_at": "2026-10-26T06:35:59Z"
+      },
+      {
         "id": "756402765",
         "title": "Word Search",
         "slug": "word-search",
@@ -511,26 +511,17 @@
         "title": "Product of Array Except Self",
         "slug": "product-of-array-except-self",
         "submitted_at": "2026-09-17T03:05:59Z"
-      },
-      {
-        "id": "749584842",
-        "title": "Add Two Numbers",
-        "slug": "add-two-numbers",
-        "submitted_at": "2026-09-16T10:00:06Z"
-      },
-      {
-        "id": "749582086",
-        "title": "Minimum Window Substring",
-        "slug": "minimum-window-substring",
-        "submitted_at": "2026-09-16T09:48:35Z"
       }
     ],
-    "newly_observed_slugs": []
+    "newly_observed_slugs": [
+      "linked-list-cycle-ii",
+      "maximum-depth-of-binary-tree"
+    ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 60,
-    "reported_solved": 60
+    "known_solved": 62,
+    "reported_solved": 62
   }
 }
