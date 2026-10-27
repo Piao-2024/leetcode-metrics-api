@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-26T07:46:41Z",
+  "updated_at": "2026-10-27T07:50:20Z",
   "hot100": {
     "total": 100,
-    "solved": 42,
-    "percentage": 42.0
+    "solved": 43,
+    "percentage": 43.0
   },
   "categories": {
     "Backtracking": {
@@ -19,7 +19,7 @@
     },
     "Binary Tree": {
       "total": 14,
-      "solved": 2
+      "solved": 3
     },
     "Dynamic Programming": {
       "total": 15,
@@ -165,12 +165,6 @@
       "title": "Binary Tree Right Side View",
       "slug": "binary-tree-right-side-view",
       "difficulty": "Medium",
-      "category": "Binary Tree"
-    },
-    {
-      "title": "Invert Binary Tree",
-      "slug": "invert-binary-tree",
-      "difficulty": "Easy",
       "category": "Binary Tree"
     },
     {
@@ -423,6 +417,12 @@
   "recent": {
     "submissions": [
       {
+        "id": "757017638",
+        "title": "Invert Binary Tree",
+        "slug": "invert-binary-tree",
+        "submitted_at": "2026-10-26T07:46:54Z"
+      },
+      {
         "id": "757016177",
         "title": "Maximum Depth of Binary Tree",
         "slug": "maximum-depth-of-binary-tree",
@@ -505,23 +505,16 @@
         "title": "Product of Array Except Self",
         "slug": "product-of-array-except-self",
         "submitted_at": "2026-09-17T07:43:19Z"
-      },
-      {
-        "id": "749714664",
-        "title": "Product of Array Except Self",
-        "slug": "product-of-array-except-self",
-        "submitted_at": "2026-09-17T03:05:59Z"
       }
     ],
     "newly_observed_slugs": [
-      "linked-list-cycle-ii",
-      "maximum-depth-of-binary-tree"
+      "invert-binary-tree"
     ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 62,
-    "reported_solved": 62
+    "known_solved": 63,
+    "reported_solved": 63
   }
 }
