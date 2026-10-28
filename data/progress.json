@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-27T07:50:20Z",
+  "updated_at": "2026-10-28T08:28:18Z",
   "hot100": {
     "total": 100,
-    "solved": 43,
-    "percentage": 43.0
+    "solved": 45,
+    "percentage": 45.0
   },
   "categories": {
     "Backtracking": {
@@ -27,7 +27,7 @@
     },
     "Graph": {
       "total": 3,
-      "solved": 0
+      "solved": 1
     },
     "Greedy": {
       "total": 4,
@@ -67,7 +67,7 @@
     },
     "Misc": {
       "total": 10,
-      "solved": 5
+      "solved": 6
     }
   },
   "remaining": [
@@ -258,12 +258,6 @@
       "category": "Dynamic Programming"
     },
     {
-      "title": "Number of Islands",
-      "slug": "number-of-islands",
-      "difficulty": "Medium",
-      "category": "Graph"
-    },
-    {
       "title": "Course Schedule",
       "slug": "course-schedule",
       "difficulty": "Medium",
@@ -396,12 +390,6 @@
       "category": "Misc"
     },
     {
-      "title": "Single Number",
-      "slug": "single-number",
-      "difficulty": "Easy",
-      "category": "Misc"
-    },
-    {
       "title": "Majority Element",
       "slug": "majority-element",
       "difficulty": "Easy",
@@ -416,6 +404,18 @@
   ],
   "recent": {
     "submissions": [
+      {
+        "id": "757378092",
+        "title": "Single Number",
+        "slug": "single-number",
+        "submitted_at": "2026-10-28T03:41:10Z"
+      },
+      {
+        "id": "757361249",
+        "title": "Number of Islands",
+        "slug": "number-of-islands",
+        "submitted_at": "2026-10-28T02:33:25Z"
+      },
       {
         "id": "757017638",
         "title": "Invert Binary Tree",
@@ -493,28 +493,17 @@
         "title": "Rotate Image",
         "slug": "rotate-image",
         "submitted_at": "2026-09-17T11:26:16Z"
-      },
-      {
-        "id": "749781373",
-        "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-        "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
-        "submitted_at": "2026-09-17T07:52:06Z"
-      },
-      {
-        "id": "749778177",
-        "title": "Product of Array Except Self",
-        "slug": "product-of-array-except-self",
-        "submitted_at": "2026-09-17T07:43:19Z"
       }
     ],
     "newly_observed_slugs": [
-      "invert-binary-tree"
+      "number-of-islands",
+      "single-number"
     ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 63,
-    "reported_solved": 63
+    "known_solved": 65,
+    "reported_solved": 65
   }
 }
