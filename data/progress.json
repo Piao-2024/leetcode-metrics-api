@@ -2,7 +2,7 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-10-28T08:28:18Z",
+  "updated_at": "2026-10-29T08:27:28Z",
   "hot100": {
     "total": 100,
     "solved": 45,
@@ -495,10 +495,7 @@
         "submitted_at": "2026-09-17T11:26:16Z"
       }
     ],
-    "newly_observed_slugs": [
-      "number-of-islands",
-      "single-number"
-    ]
+    "newly_observed_slugs": []
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
