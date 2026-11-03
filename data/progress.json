@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-11-02T09:28:16Z",
+  "updated_at": "2026-11-03T09:30:59Z",
   "hot100": {
     "total": 100,
-    "solved": 45,
-    "percentage": 45.0
+    "solved": 46,
+    "percentage": 46.0
   },
   "categories": {
     "Backtracking": {
@@ -55,7 +55,7 @@
     },
     "Stack": {
       "total": 5,
-      "solved": 0
+      "solved": 1
     },
     "Two Pointers": {
       "total": 4,
@@ -342,12 +342,6 @@
       "category": "Linked Lists"
     },
     {
-      "title": "Valid Parentheses",
-      "slug": "valid-parentheses",
-      "difficulty": "Easy",
-      "category": "Stack"
-    },
-    {
       "title": "Largest Rectangle in Histogram",
       "slug": "largest-rectangle-in-histogram",
       "difficulty": "Hard",
@@ -404,6 +398,12 @@
   ],
   "recent": {
     "submissions": [
+      {
+        "id": "758403864",
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses",
+        "submitted_at": "2026-11-03T08:34:17Z"
+      },
       {
         "id": "757378092",
         "title": "Single Number",
@@ -487,20 +487,16 @@
         "title": "Product of Array Except Self",
         "slug": "product-of-array-except-self",
         "submitted_at": "2026-09-17T11:42:31Z"
-      },
-      {
-        "id": "749836831",
-        "title": "Rotate Image",
-        "slug": "rotate-image",
-        "submitted_at": "2026-09-17T11:26:16Z"
       }
     ],
-    "newly_observed_slugs": []
+    "newly_observed_slugs": [
+      "valid-parentheses"
+    ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 65,
-    "reported_solved": 65
+    "known_solved": 66,
+    "reported_solved": 66
   }
 }
