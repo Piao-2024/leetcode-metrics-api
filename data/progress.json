@@ -2,11 +2,11 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-11-03T09:30:59Z",
+  "updated_at": "2026-11-04T09:09:01Z",
   "hot100": {
     "total": 100,
-    "solved": 46,
-    "percentage": 46.0
+    "solved": 47,
+    "percentage": 47.0
   },
   "categories": {
     "Backtracking": {
@@ -19,7 +19,7 @@
     },
     "Binary Tree": {
       "total": 14,
-      "solved": 3
+      "solved": 4
     },
     "Dynamic Programming": {
       "total": 15,
@@ -129,12 +129,6 @@
       "title": "Validate Binary Search Tree",
       "slug": "validate-binary-search-tree",
       "difficulty": "Medium",
-      "category": "Binary Tree"
-    },
-    {
-      "title": "Symmetric Tree",
-      "slug": "symmetric-tree",
-      "difficulty": "Easy",
       "category": "Binary Tree"
     },
     {
@@ -399,6 +393,12 @@
   "recent": {
     "submissions": [
       {
+        "id": "758438789",
+        "title": "Symmetric Tree",
+        "slug": "symmetric-tree",
+        "submitted_at": "2026-11-03T11:27:14Z"
+      },
+      {
         "id": "758403864",
         "title": "Valid Parentheses",
         "slug": "valid-parentheses",
@@ -481,22 +481,16 @@
         "title": "Jump Game",
         "slug": "jump-game",
         "submitted_at": "2026-09-18T08:07:01Z"
-      },
-      {
-        "id": "749840313",
-        "title": "Product of Array Except Self",
-        "slug": "product-of-array-except-self",
-        "submitted_at": "2026-09-17T11:42:31Z"
       }
     ],
     "newly_observed_slugs": [
-      "valid-parentheses"
+      "symmetric-tree"
     ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 66,
-    "reported_solved": 66
+    "known_solved": 67,
+    "reported_solved": 67
   }
 }
