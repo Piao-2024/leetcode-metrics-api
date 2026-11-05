@@ -2,16 +2,16 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-11-04T09:09:01Z",
+  "updated_at": "2026-11-05T09:27:54Z",
   "hot100": {
     "total": 100,
-    "solved": 47,
-    "percentage": 47.0
+    "solved": 48,
+    "percentage": 48.0
   },
   "categories": {
     "Backtracking": {
       "total": 8,
-      "solved": 1
+      "solved": 2
     },
     "Binary Search": {
       "total": 7,
@@ -86,12 +86,6 @@
     {
       "title": "Combination Sum",
       "slug": "combination-sum",
-      "difficulty": "Medium",
-      "category": "Backtracking"
-    },
-    {
-      "title": "Permutations",
-      "slug": "permutations",
       "difficulty": "Medium",
       "category": "Backtracking"
     },
@@ -393,6 +387,36 @@
   "recent": {
     "submissions": [
       {
+        "id": "758739830",
+        "title": "Permutations",
+        "slug": "permutations",
+        "submitted_at": "2026-11-05T07:35:03Z"
+      },
+      {
+        "id": "758738254",
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "submitted_at": "2026-11-05T07:28:47Z"
+      },
+      {
+        "id": "758692290",
+        "title": "Permutations",
+        "slug": "permutations",
+        "submitted_at": "2026-11-05T02:40:29Z"
+      },
+      {
+        "id": "758687919",
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree",
+        "submitted_at": "2026-11-05T02:17:51Z"
+      },
+      {
+        "id": "758686587",
+        "title": "Same Tree",
+        "slug": "same-tree",
+        "submitted_at": "2026-11-05T02:09:38Z"
+      },
+      {
         "id": "758438789",
         "title": "Symmetric Tree",
         "slug": "symmetric-tree",
@@ -451,46 +475,17 @@
         "title": "Palindrome Linked List",
         "slug": "palindrome-linked-list",
         "submitted_at": "2026-10-20T03:32:23Z"
-      },
-      {
-        "id": "755873570",
-        "title": "Search a 2D Matrix II",
-        "slug": "search-a-2d-matrix-ii",
-        "submitted_at": "2026-10-20T03:02:58Z"
-      },
-      {
-        "id": "755490283",
-        "title": "First Missing Positive",
-        "slug": "first-missing-positive",
-        "submitted_at": "2026-10-18T05:09:22Z"
-      },
-      {
-        "id": "750316250",
-        "title": "Spiral Matrix",
-        "slug": "spiral-matrix",
-        "submitted_at": "2026-09-20T01:33:51Z"
-      },
-      {
-        "id": "750309488",
-        "title": "Set Matrix Zeroes",
-        "slug": "set-matrix-zeroes",
-        "submitted_at": "2026-09-20T00:36:45Z"
-      },
-      {
-        "id": "750010205",
-        "title": "Jump Game",
-        "slug": "jump-game",
-        "submitted_at": "2026-09-18T08:07:01Z"
       }
     ],
     "newly_observed_slugs": [
-      "symmetric-tree"
+      "permutations",
+      "same-tree"
     ]
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
     "is_complete": true,
-    "known_solved": 67,
-    "reported_solved": 67
+    "known_solved": 69,
+    "reported_solved": 69
   }
 }
