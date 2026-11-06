@@ -2,7 +2,7 @@
   "schema_version": 1,
   "site": "cn",
   "username": "piao-16m",
-  "updated_at": "2026-11-05T09:27:54Z",
+  "updated_at": "2026-11-06T09:21:36Z",
   "hot100": {
     "total": 100,
     "solved": 48,
@@ -387,6 +387,18 @@
   "recent": {
     "submissions": [
       {
+        "id": "758795024",
+        "title": "3Sum",
+        "slug": "3sum",
+        "submitted_at": "2026-11-05T12:23:44Z"
+      },
+      {
+        "id": "758793217",
+        "title": "3Sum",
+        "slug": "3sum",
+        "submitted_at": "2026-11-05T12:13:50Z"
+      },
+      {
         "id": "758739830",
         "title": "Permutations",
         "slug": "permutations",
@@ -463,24 +475,9 @@
         "title": "Word Search",
         "slug": "word-search",
         "submitted_at": "2026-10-22T11:53:21Z"
-      },
-      {
-        "id": "756391944",
-        "title": "Linked List Cycle",
-        "slug": "linked-list-cycle",
-        "submitted_at": "2026-10-22T10:52:41Z"
-      },
-      {
-        "id": "755881619",
-        "title": "Palindrome Linked List",
-        "slug": "palindrome-linked-list",
-        "submitted_at": "2026-10-20T03:32:23Z"
       }
     ],
-    "newly_observed_slugs": [
-      "permutations",
-      "same-tree"
-    ]
+    "newly_observed_slugs": []
   },
   "coverage": {
     "source": "public_recent_ac_with_local_history",
